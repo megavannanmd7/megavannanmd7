@@ -22,15 +22,19 @@
 |------------------|------------------------------|-----------------------|-------------------------------------|
 | `JavaScript` ,`Python`       | `Node.js`, `Express`, `NestJS` | `MySQL`, `PostgreSQL` | `Git`, `GitHub`, `Prisma`, `Postman`, `Docker`, `Redis`, `TypeScript` |
 
-### 📈 GitHub Stats
+### 📈 GitHub Insights
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=megavannan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=megavannan&theme=tokyonight" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavannan&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=megavannanmd7&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavannanmd7&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 > Constantly exploring and learning. No stagnation allowed 🚀
 
