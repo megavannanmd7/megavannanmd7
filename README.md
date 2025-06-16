@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Fresher currently working at **C1X**, focused backend systems for now.
+- 🎓 Fresher currently working at **C1X**.
 - 🔭 Currently diving deep into **NestJS**, crafting APIs.
 - 🛠️ Always eager to automate boring stuff and make things scalable, clean, and fast.
 - 🎯 Goal: Become a Full Stack Wizard with strong fundamentals and pragmatic architecture.
