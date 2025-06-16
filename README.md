@@ -22,9 +22,16 @@
 |------------------|------------------------------|-----------------------|-------------------------------------|
 | `JavaScript` ,`Python`       | `Node.js`, `Express`, `NestJS` | `MySQL`, `PostgreSQL` | `Git`, `GitHub`, `Prisma`, `Postman`, `Docker`, `Redis`, `TypeScript` |
 
-### 🧠 Top Languages Used
+### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megavannanmd7&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=megavannan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megavannan&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavannan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 > Constantly exploring and learning. No stagnation allowed 🚀
 
