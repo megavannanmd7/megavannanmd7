@@ -22,6 +22,9 @@
 |------------------|------------------------------|-----------------------|-------------------------------------|
 | `JavaScript` ,`Python`       | `Node.js`, `Express`, `NestJS` | `MySQL`, `PostgreSQL` | `Git`, `GitHub`, `Prisma`, `Postman`, `Docker`, `Redis`, `TypeScript` |
 
+### 🧠 Top Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megavannan&layout=compact&theme=tokyonight)
 
 > Constantly exploring and learning. No stagnation allowed 🚀
 
