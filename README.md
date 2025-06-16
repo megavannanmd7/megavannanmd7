@@ -25,13 +25,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megavannanmd7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megavannanmd7&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavannanmd7&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=megavannan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=megavannan&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavannan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </div>
 </p>
-
 
 > Constantly exploring and learning. No stagnation allowed 🚀
 
