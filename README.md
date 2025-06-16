@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn (add link)]([https://www.linkedin.com/in/megavannan-m-d-b2b629248/])
+- 💼 [LinkedIn https://www.linkedin.com/in/megavannan-m-d-b2b629248]
 - 📬 Open to collaboration, feedback, and coffee ☕
 
 ---
