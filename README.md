@@ -20,23 +20,13 @@
 
 | Languages         | Frameworks / Runtimes        | Databases             | Tools & Technologies                |
 |------------------|------------------------------|-----------------------|-------------------------------------|
-| `JavaScript`     | `Node.js`, `Express`, `NestJS` | `MySQL`, `PostgreSQL` | `Git`, `GitHub`, `Prisma`, `Postman`, `Docker`, `Redis`, `TypeScript` |
-| `Python`         | —                            | —                     | —                                   |
+| `JavaScript` ,`Python`       | `Node.js`, `Express`, `NestJS` | `MySQL`, `PostgreSQL` | `Git`, `GitHub`, `Prisma`, `Postman`, `Docker`, `Redis`, `TypeScript` |
 
 
 > Constantly exploring and learning. No stagnation allowed 🚀
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megavannan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megavannan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
