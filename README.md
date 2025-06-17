@@ -49,12 +49,5 @@
 ---
 
 > 💡 *"The best way to predict the future is to build it."* – Let’s code it into reality!
->
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/megavannanmd7/megavannanmd7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/megavannanmd7/megavannanmd7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/megavannanmd7/megavannanmd7/output/pacman-contribution-graph.svg">
-</picture>
 
